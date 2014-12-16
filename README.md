@@ -1,7 +1,7 @@
 codehs_maps
 ===========
 
-A sample lecture for an AP Java class, on Map. Video here: https://www.youtube.com/watch?v=FdnljODR8lc
+A sample lecture for an AP Java class, on Map. Video [here](https://www.youtube.com/watch?v=FdnIjODR8Ic).
 
 This code includes examples from the lecture, as well as exercises with sample solutions.
 
